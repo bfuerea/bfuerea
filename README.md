@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bfuerea
 - 👀 I’m interested in automating the world
-- 🌱 I’m currently learning JavaScript, Java, Kotlin, Vue.js, MongoDB, Data Science, Selenium, Playwright, Cypress.io, Cucumber, Blender etc.
-- 💞️ I’m looking to collaborate on Digital Pathology and Statistics, also on UI Automated Testing. 
+- 🌱 I’m currently learning JavaScript, Java, Kotlin, Vue.js, MongoDB, Data Science, Selenium, Playwright, Cypress.io, Cucumber, Blender, Data Testing & Automation, Nuxt3, React etc.
+- 💞️ I’m looking to collaborate on Digital Pathology and Statistics, also on anything related to Fullstack Development using MongoDB, FASTAPI, Nuxt3 or React. 
 - 📫 How to reach me: bogdan.fuerea@gmail.com
 
 <!---
